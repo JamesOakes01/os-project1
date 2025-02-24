@@ -9,3 +9,5 @@ How to use:
 When you clone the git repo, you can run the kilo file with ./kilo
 Alternatively it can be recompiled from the kilo.c file with the "make" command. I had some trouble with this after switching to using the original source code but I think I got it worked out. The original source code does also have a Makefile included that would work.
 The project requires no other dependencies other than the ability to compile C code.
+
+Syntax for kilo: ./kilo [filename]
